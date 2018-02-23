@@ -1,3 +1,4 @@
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/JenniferBrooks20132017LSTSEMDAJJPBN/bitfinex-api-go.png?columns=all)](https://waffle.io/JenniferBrooks20132017LSTSEMDAJJPBN/bitfinex-api-go?utm_source=badge)
 # Bitfinex Trading API for Golang. Bitcoin, Ether and Litecoin trading
 * Official implementation
 * REST API
